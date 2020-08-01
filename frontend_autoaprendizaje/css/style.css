@@ -1,0 +1,14 @@
+.boton-registrarse {
+    color: darkred;
+    border-color: darkred;
+}
+
+.boton-registrarse:hover {
+    color: #fff;
+    background-color: darkred;
+    border-color: darkred;
+}
+
+.tamanio-boton-hor {
+    width: 110px;
+}
